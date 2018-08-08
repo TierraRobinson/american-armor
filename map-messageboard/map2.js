@@ -481,7 +481,7 @@ var simplemaps_usmap_mapdata = {
 			lat: 40.7143528,
 			lng: -74.0059731,
 			color: 'default',
-			url: 'simple-message-board/NY-citites.html',
+			url: 'simple-message-board/NYC.html',
 			type: "image",
 			image_url: "http://www.emoji.co.uk/files/apple-emojis/symbols-ios/775-purple-heart.png"
 		},
